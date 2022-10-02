@@ -7,5 +7,7 @@ This is the backend of the file-renaming program which is a quick way of bulk-re
 ```
 git clone https://github.com/svnoak/filrenaming-server.git
 cd filrenaming-server
-php -S localhost:3000
+php -S localhost:7000
 ```
+
+!IMPORTANT! The [client](https://github.com/svnoak/FiRE-CLIENT/blob/main/code.js) looks for a server at port 7000, don't change it without changing it in the client.
