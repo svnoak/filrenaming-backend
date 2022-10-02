@@ -10,4 +10,4 @@ cd filrenaming-server
 php -S localhost:7000
 ```
 
-!IMPORTANT! The [client](https://github.com/svnoak/FiRE-CLIENT/blob/main/code.js) looks for a server at port 7000, don't change it without changing it in the client.
+!IMPORTANT! The [client](https://github.com/svnoak/FiRE-CLIENT) looks for a server at port 7000, don't change it without changing it in the client.
